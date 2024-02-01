@@ -13,7 +13,7 @@ In conclusion, I've found that with this project, some things are starting to "c
 
 Live Link
 
-https://mkelly115.github.io/day-scheduler/
+https://fderosier.github.io/Work-Day-Scheduler2/
 
 
 Licensing
